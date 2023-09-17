@@ -1,6 +1,6 @@
 - 👋 Hi, I’m DeShawn Reid
 - 👀 I’m interested in making audio software, stuff like plug-ins and audio-software. Stuff like (Abelton, Fl Studio, Koala).
-- 🌱 Recent at Grand Circus studying FullStack JavaScript.
+- 🌱 Graduate of Grand Circus FullStack JavaScript.
 - 💞️ I’m looking to collaborate on ... beginner projects to help build my portfolio and strengthen my programming skills.
 - 📫 How to reach me https://www.linkedin.com/in/deshawnreid/
 
